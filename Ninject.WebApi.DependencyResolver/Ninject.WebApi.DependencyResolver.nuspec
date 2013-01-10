@@ -14,4 +14,7 @@
     <copyright>Copyright 2013</copyright>
     <tags>Ninject WebApi DI DependencyInjection</tags>
   </metadata>
+  <files>
+    <file src="\App_Readme\*.*" target="\" />
+  </files>
 </package>
